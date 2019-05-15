@@ -1,7 +1,7 @@
-Gerenciador de Despesas
-Disciplina: Engenharia de Software
-Professor: Rodrigo Andrade
-Cliente: Cecília Evangelina Cavalcanti Duarte
+ <p>Gerenciador de Despesas </p>
+ <p>Disciplina: Engenharia de Software </p>
+ <p>Professor: Rodrigo Andrade </p>
+ <p>Cliente: Cecília Evangelina Cavalcanti Duarte </p>
 
 
 Integrantes do grupo: 
